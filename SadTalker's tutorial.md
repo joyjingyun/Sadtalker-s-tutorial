@@ -17,17 +17,17 @@ conda create -n sadtalker python=3.8
 
 - 点击Code,点击复制的图标
 
-![image-20230615221727366](D:\dx开源信息获取与应用\image\image-20230615221727366.png)
+![image](https://github.com/joyjingyun/Sadtalker-s-tutorial/blob/main/image/image-20230615221727366.png)
 
 - 打开刚刚新建的文件夹，鼠标右击空白处，选择-显示更多选项-Git Bash Here
 
-![image-20230615221940916](D:\dx开源信息获取与应用\image\image-20230615221940916.png)
+![image](https://github.com/joyjingyun/Sadtalker-s-tutorial/blob/main/image/image-20230615221940916.png)
 
 - 输入git clone 然后右键点击paste
 
-![image-20230609141636697](D:\dx开源信息获取与应用\image\image-20230609141636697.png)
+![image](https://github.com/joyjingyun/Sadtalker-s-tutorial/blob/main/image/image-20230609141636697.png)
 
-![image-20230615222205842](D:\dx开源信息获取与应用\image\image-20230615222205842.png)
+![image](https://github.com/joyjingyun/Sadtalker-s-tutorial/blob/main/image/image-20230615222205842.png)
 
 - 看到100%就表示克隆成功了
 
@@ -49,13 +49,13 @@ conda install pytorch==1.12.1 torchvision==0.13.1 torchaudio==0.12.1 cudatoolkit
 
 - 安装完后，你需要测试一下
 
-![image-20230615223350028](D:\dx开源信息获取与应用\image\image-20230615223350028.png)
+![image](https://github.com/joyjingyun/Sadtalker-s-tutorial/blob/main/image/image-20230615223350028.png)
 
 ### 安装依赖
 
 - 在虚拟环境里进入项目所在文件夹
 
-![image-20230615224035429](D:\dx开源信息获取与应用\image\image-20230615224035429.png)
+![image](https://github.com/joyjingyun/Sadtalker-s-tutorial/blob/main/image/image-20230615224035429.png)
 
 - 输入以下命令
 
@@ -72,7 +72,7 @@ pip install -r requirements.txt
 
 - 解压后放在项目所在的文件夹
 
-![image-20230615231000274](D:\dx开源信息获取与应用\image\image-20230615231000274.png)
+![image](https://github.com/joyjingyun/Sadtalker-s-tutorial/blob/main/image/image-20230615231000274.png)
 
 - 输入以下代码，查看虚拟环境的路径
 
@@ -98,9 +98,9 @@ https://remeins.com/index/app/text2voice
 
 - 图片可以用AI绘画把人脸图更加3D化
 
-<img src="D:\dx开源信息获取与应用\image\1687013041622.jpg" alt="1687013041622" style="zoom:25%;" />
+<img src="[image](https://github.com/joyjingyun/Sadtalker-s-tutorial/blob/main/image/1687013041622.jpg)" alt="1687013041622" style="zoom:25%;" />
 
-<img src="https://github.com/joyjingyun/Sadtalker-s-tutorial/blob/main/image/1687013041608.webp" alt="1687013041608" style="zoom:25%;" />
+<img src="[image]https://github.com/joyjingyun/Sadtalker-s-tutorial/blob/main/image/1687013041608.webp" alt="1687013041608" style="zoom:25%;" />
 
 
 
@@ -115,7 +115,7 @@ python inference.py --driven_audio D:\pyproject\SadTalker\examples\driven_audio\
 
 - 看到以下界面表示训练成功，现在可以在D:\pyproject\SadTalker\output文件夹里看到你的成果了！
 
-![image-20230616083906119](D:\dx开源信息获取与应用\image\image-20230616083906119.png)
+![image](https://github.com/joyjingyun/Sadtalker-s-tutorial/blob/main/image/image-20230616083906119.png)
 
 
 
@@ -132,11 +132,11 @@ python inference.py --driven_audio <audio.wav> \
 
 - 看到以下界面就表示成功了
 
-![image-20230619230259026](D:\dx开源信息获取与应用\image\image-20230619230259026.png)
+![image](https://github.com/joyjingyun/Sadtalker-s-tutorial/blob/main/image/image-20230619230259026.png)
 
 - 效果视频展示
 
-<img src="[image](https://raw.githubusercontent.com/joyjingyun/Sadtalker-s-tutorial/main/image/1687013041608.webp)" alt="image-20230619230440226" style="zoom: 67%;" />
+<img src=[image](https://github.com/joyjingyun/Sadtalker-s-tutorial/blob/main/image/image-20230619230440226.png) alt="image-20230619230440226" style="zoom: 67%;" />
 
 - 最后测试环节可能会出现的问题是缺少Pillow库中的Imaging模块
 
