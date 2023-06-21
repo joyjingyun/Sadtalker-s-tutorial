@@ -136,7 +136,7 @@ python inference.py --driven_audio <audio.wav> \
 
 - 效果视频展示
 
-<img src="D:\dx开源信息获取与应用\image\image-20230619230440226.png" alt="image-20230619230440226" style="zoom: 67%;" />
+<img src="[image](https://raw.githubusercontent.com/joyjingyun/Sadtalker-s-tutorial/main/image/1687013041608.webp)" alt="image-20230619230440226" style="zoom: 67%;" />
 
 - 最后测试环节可能会出现的问题是缺少Pillow库中的Imaging模块
 
