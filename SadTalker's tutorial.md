@@ -98,9 +98,9 @@ https://remeins.com/index/app/text2voice
 
 - 图片可以用AI绘画把人脸图更加3D化
 
-<img src="[image](https://github.com/joyjingyun/Sadtalker-s-tutorial/blob/main/image/1687013041622.jpg)" alt="1687013041622" style="zoom:25%;" />
+![image](https://github.com/joyjingyun/Sadtalker-s-tutorial/blob/main/image/1687013041622.jpg)
 
-<img src="[image]https://github.com/joyjingyun/Sadtalker-s-tutorial/blob/main/image/1687013041608.webp" alt="1687013041608" style="zoom:25%;" />
+![image](https://github.com/joyjingyun/Sadtalker-s-tutorial/blob/main/image/1687013041608.webp)
 
 
 
