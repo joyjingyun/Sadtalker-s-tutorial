@@ -68,7 +68,7 @@ pip install -r requirements.txt
 
 - 下载官方给的预训练模型
 
-![image-20230615225716907](C:\Users\86151\AppData\Roaming\Typora\typora-user-images\image-20230615225716907.png)
+![image](https://github.com/joyjingyun/Sadtalker-s-tutorial/blob/main/image/image-20230615225716907.png)
 
 - 解压后放在项目所在的文件夹
 
@@ -136,7 +136,7 @@ python inference.py --driven_audio <audio.wav> \
 
 - 效果视频展示
 
-<img src=[image](https://github.com/joyjingyun/Sadtalker-s-tutorial/blob/main/image/image-20230619230440226.png) alt="image-20230619230440226" style="zoom: 67%;" />
+![image](https://github.com/joyjingyun/Sadtalker-s-tutorial/blob/main/image/image-20230619230440226.png)
 
 - 最后测试环节可能会出现的问题是缺少Pillow库中的Imaging模块
 
