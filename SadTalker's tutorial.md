@@ -100,7 +100,7 @@ https://remeins.com/index/app/text2voice
 
 <img src="D:\dx开源信息获取与应用\image\1687013041622.jpg" alt="1687013041622" style="zoom:25%;" />
 
-<img src="D:\dx开源信息获取与应用\image\1687013041608.webp" alt="1687013041608" style="zoom:25%;" />
+<img src="[D:\dx开源信息获取与应用\image\1687013041608.webp](https://github.com/joyjingyun/Sadtalker-s-tutorial/blob/main/image/1687013041608.webp)" alt="1687013041608" style="zoom:25%;" />
 
 
 
